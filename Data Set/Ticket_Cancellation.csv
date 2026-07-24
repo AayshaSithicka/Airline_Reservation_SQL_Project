@@ -1,0 +1,151 @@
+cancellation_id,ticket_id,cancellation_date,reason
+1,306,2026-07-21,Medical emergency
+2,1183,2026-08-26,Change of travel plans
+3,343,2026-07-19,Flight rescheduled
+4,714,2026-07-07,Medical emergency
+5,50,2026-07-08,Change of travel plans
+6,190,2026-07-06,Found cheaper option
+7,621,2026-07-28,Personal reasons
+8,408,2026-08-05,Found cheaper option
+9,979,2026-09-01,Personal reasons
+10,568,2026-07-28,Personal reasons
+11,1048,2026-08-31,Flight rescheduled
+12,395,2026-08-13,Change of travel plans
+13,117,2026-07-28,Personal reasons
+14,403,2026-08-11,Flight rescheduled
+15,11,2026-07-28,Flight rescheduled
+16,1181,2026-08-01,Medical emergency
+17,852,2026-09-03,Medical emergency
+18,963,2026-07-21,Personal reasons
+19,170,2026-08-27,Change of travel plans
+20,431,2026-07-13,Flight rescheduled
+21,1024,2026-08-03,Personal reasons
+22,191,2026-07-05,Change of travel plans
+23,236,2026-07-07,Found cheaper option
+24,298,2026-07-08,Change of travel plans
+25,815,2026-08-25,Found cheaper option
+26,100,2026-07-12,Change of travel plans
+27,310,2026-07-18,Change of travel plans
+28,311,2026-08-25,Personal reasons
+29,237,2026-08-09,Medical emergency
+30,425,2026-07-11,Personal reasons
+31,323,2026-07-30,Flight rescheduled
+32,242,2026-08-22,Change of travel plans
+33,943,2026-08-05,Medical emergency
+34,840,2026-08-01,Found cheaper option
+35,956,2026-07-07,Found cheaper option
+36,286,2026-07-05,Found cheaper option
+37,110,2026-07-11,Flight rescheduled
+38,183,2026-08-02,Change of travel plans
+39,238,2026-07-14,Found cheaper option
+40,231,2026-07-06,Change of travel plans
+41,784,2026-07-26,Change of travel plans
+42,825,2026-08-03,Change of travel plans
+43,215,2026-07-17,Found cheaper option
+44,266,2026-07-07,Personal reasons
+45,371,2026-08-02,Change of travel plans
+46,86,2026-07-20,Change of travel plans
+47,248,2026-08-03,Medical emergency
+48,66,2026-07-26,Change of travel plans
+49,915,2026-07-08,Flight rescheduled
+50,279,2026-07-28,Found cheaper option
+51,703,2026-07-22,Personal reasons
+52,1084,2026-07-24,Medical emergency
+53,897,2026-08-25,Personal reasons
+54,510,2026-07-16,Change of travel plans
+55,406,2026-08-19,Medical emergency
+56,439,2026-07-06,Change of travel plans
+57,76,2026-08-10,Personal reasons
+58,602,2026-07-16,Flight rescheduled
+59,1172,2026-08-08,Found cheaper option
+60,884,2026-08-17,Flight rescheduled
+61,779,2026-08-02,Personal reasons
+62,691,2026-08-19,Personal reasons
+63,427,2026-08-12,Flight rescheduled
+64,1099,2026-08-05,Change of travel plans
+65,28,2026-07-18,Change of travel plans
+66,367,2026-08-09,Change of travel plans
+67,933,2026-07-26,Medical emergency
+68,618,2026-08-16,Medical emergency
+69,1067,2026-08-12,Personal reasons
+70,213,2026-07-15,Personal reasons
+71,307,2026-09-02,Flight rescheduled
+72,578,2026-08-27,Personal reasons
+73,361,2026-08-30,Personal reasons
+74,206,2026-08-01,Medical emergency
+75,185,2026-07-10,Flight rescheduled
+76,583,2026-08-11,Change of travel plans
+77,47,2026-08-07,Medical emergency
+78,1144,2026-08-27,Medical emergency
+79,809,2026-08-18,Personal reasons
+80,1075,2026-07-06,Change of travel plans
+81,288,2026-07-08,Flight rescheduled
+82,18,2026-07-30,Personal reasons
+83,669,2026-08-01,Change of travel plans
+84,276,2026-07-24,Flight rescheduled
+85,308,2026-08-14,Found cheaper option
+86,588,2026-07-06,Change of travel plans
+87,770,2026-08-24,Change of travel plans
+88,264,2026-07-08,Personal reasons
+89,36,2026-08-11,Personal reasons
+90,397,2026-08-16,Personal reasons
+91,752,2026-07-12,Flight rescheduled
+92,717,2026-07-07,Change of travel plans
+93,780,2026-08-21,Flight rescheduled
+94,136,2026-08-11,Medical emergency
+95,3,2026-08-08,Found cheaper option
+96,440,2026-07-09,Found cheaper option
+97,1166,2026-08-22,Flight rescheduled
+98,708,2026-08-10,Change of travel plans
+99,263,2026-07-25,Medical emergency
+100,1195,2026-08-16,Change of travel plans
+101,1017,2026-07-25,Medical emergency
+102,35,2026-07-07,Flight rescheduled
+103,200,2026-08-13,Found cheaper option
+104,469,2026-08-06,Change of travel plans
+105,930,2026-08-25,Found cheaper option
+106,243,2026-07-24,Found cheaper option
+107,291,2026-08-26,Personal reasons
+108,565,2026-09-02,Personal reasons
+109,391,2026-08-24,Found cheaper option
+110,869,2026-08-07,Personal reasons
+111,736,2026-08-14,Medical emergency
+112,1126,2026-08-15,Change of travel plans
+113,1106,2026-07-17,Personal reasons
+114,751,2026-08-11,Personal reasons
+115,794,2026-08-17,Change of travel plans
+116,629,2026-08-26,Personal reasons
+117,267,2026-07-29,Found cheaper option
+118,435,2026-08-09,Flight rescheduled
+119,56,2026-07-11,Personal reasons
+120,532,2026-09-01,Personal reasons
+121,154,2026-07-11,Medical emergency
+122,320,2026-07-18,Personal reasons
+123,53,2026-07-23,Change of travel plans
+124,289,2026-08-05,Personal reasons
+125,987,2026-08-10,Flight rescheduled
+126,111,2026-07-20,Medical emergency
+127,866,2026-08-27,Medical emergency
+128,253,2026-08-22,Flight rescheduled
+129,742,2026-08-01,Medical emergency
+130,332,2026-07-18,Found cheaper option
+131,982,2026-08-16,Found cheaper option
+132,473,2026-08-12,Flight rescheduled
+133,1142,2026-08-11,Found cheaper option
+134,1014,2026-09-01,Change of travel plans
+135,570,2026-08-13,Personal reasons
+136,124,2026-08-25,Change of travel plans
+137,341,2026-07-09,Flight rescheduled
+138,126,2026-07-15,Personal reasons
+139,908,2026-08-28,Medical emergency
+140,175,2026-07-06,Medical emergency
+141,873,2026-08-03,Change of travel plans
+142,46,2026-08-06,Personal reasons
+143,845,2026-08-26,Found cheaper option
+144,468,2026-08-28,Medical emergency
+145,260,2026-07-11,Change of travel plans
+146,577,2026-07-31,Change of travel plans
+147,1088,2026-08-27,Medical emergency
+148,220,2026-08-16,Change of travel plans
+149,702,2026-08-14,Flight rescheduled
+150,655,2026-07-11,Found cheaper option

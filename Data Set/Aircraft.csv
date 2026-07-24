@@ -1,0 +1,13 @@
+aircraft_id,airline_id,model_name,total_seats
+1,6,Airbus A320,144
+2,1,Boeing 787,350
+3,3,Boeing 737,180
+4,2,Airbus A380,180
+5,6,Boeing 777,144
+6,6,Airbus A321,350
+7,5,Airbus A319,144
+8,5,Boeing 747,220
+9,1,Airbus A350,144
+10,1,ATR 72,180
+11,2,Embraer E190,256
+12,5,Boeing 767,144

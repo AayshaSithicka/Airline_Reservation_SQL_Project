@@ -1,0 +1,4 @@
+class_id,class_name,price_multiplier
+1,Economy,1.0
+2,Business,2.5
+3,First,4.0
